@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.vanniktech.maven.publish'
 
 android {
+    namespace = "com.hbb20"
     compileSdkVersion 33
 
     defaultConfig {
